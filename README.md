@@ -1,4 +1,4 @@
-# habit_app (Task Management Application)
+# HABIT (Task Management Application)
 
 A full-featured Task Management Application built with the **MERN stack**. The frontend is developed using **React with Vite**, while the backend is powered by **Express.js** with **MongoDB** as the database.
 
