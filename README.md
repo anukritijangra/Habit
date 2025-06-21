@@ -31,14 +31,6 @@ A full-featured Task Management Application built with the **MERN stack**. The f
   - Toast notifications for actions  
   - Mandatory fields marked clearly
 
-- **Collaboration**  
-  - Add members to boards  
-  - Assign members to tasks
-
-- **Bonus Features**  
-  - Pre-filled settings info for easier edits  
-  - Visual task status indicators based on due date
-
 ## Tech Stack
 
 ### Frontend
